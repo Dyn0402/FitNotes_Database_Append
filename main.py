@@ -15,7 +15,7 @@ from datetime import datetime, timedelta
 
 def main():
     fit_notes_db_path = 'E:/Transfer/FitNotes_Backup.fitnotes'
-    new_csv_path = 'E:/Transfer/FitNotes_Export_Dylan.csv'
+    new_csv_path = 'E:/Transfer/FitNotes_Export_Dylan_To_Append.csv'
 
     lbs_to_kg = 0.45359237  # kg per lb
 
